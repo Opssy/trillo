@@ -1,0 +1,14 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "hotel finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "null "
+  },
+  "keywords": [
+    "Hotel"
+  ],
+  "author": "Opeyemi",
+  "license": "ISC"
+}
